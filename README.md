@@ -44,7 +44,7 @@
   </section>
 
   <footer>
-    &copy; 2024 Arunima Gupta | <a href="https://github.com/agrunima151/Maze-Game" target="_blank">GitHub Repository</a>
+    &copy; 2024 Arunima Gupta | <a href="https://github.com/agrunima151/THE-MAZE-GAME" target="_blank">GitHub Repository</a>
   </footer>
 </body>
 </html>
